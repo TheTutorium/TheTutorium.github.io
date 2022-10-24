@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Tutorium Logbook</title>
+	<link>http://example.org/tags/</link>
+	<description>Recent content in Tags on Tutorium Logbook</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Mon, 24 Oct 2022 16:09:19 +0300</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Team</title>
+		<link>http://example.org/team/</link>
+		<pubDate>Mon, 24 Oct 2022 16:20:29 +0300</pubDate>
+		
+		<guid>http://example.org/team/</guid>
+		<description>&lt;ul&gt;
+&lt;li&gt;Baris Ogun Yoruk&lt;/li&gt;
+&lt;li&gt;Halil Ozgur Demir&lt;/li&gt;
+&lt;li&gt;Mustafa Cagri Durgut&lt;/li&gt;
+&lt;li&gt;Oguzhan Ozcelik&lt;/li&gt;
+&lt;li&gt;Yusuf Mirac Uyar&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>http://example.org/about/</link>
+		<pubDate>Mon, 24 Oct 2022 16:09:19 +0300</pubDate>
+		
+		<guid>http://example.org/about/</guid>
+		<description>&lt;p&gt;Tutorium is an online platform where you can meet achievers of your dreams!&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
