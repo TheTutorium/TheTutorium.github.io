@@ -4,7 +4,6 @@ This repository contains Tutorium's development [documents](documents/) and a ht
 __Note:__ logbooks are here due to the course requirement but they are not utilized.
 
 ## How to Run
----
 
 ### Locally
 You can open the html file on a browser of your choice to see the website.
